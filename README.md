@@ -1,6 +1,6 @@
 # 👋 ¡Hola, soy missaels235!
 
-![Hacker GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+![Hacker GIF](https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif)
 
 Soy un apasionado de la **ciberseguridad** y un **entusiasta de Linux**. Con 22 años de edad, me dedico a romper barreras y a explorar vulnerabilidades, especialmente en el mundo del **iOS hacking**. Además, manejo diversos lenguajes de programación que me permiten crear herramientas y soluciones innovadoras.
 
@@ -52,12 +52,11 @@ Aquí muestro algunos de los lenguajes que utilizo en mis proyectos:
 
 ## 📫 Conecta Conmigo
 
-- **Twitter:** [@TuUsuario](https://twitter.com/TuUsuario)
-- **LinkedIn:** [Tu Perfil](https://www.linkedin.com/in/TuPerfil)
-- **Email:** [tuemail@example.com](mailto:tuemail@example.com)
+- **Twitter:** 
+- **LinkedIn:** 
+- **Email:**
 
 ---
 
-![Footer Animado](https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif)
-
+![Footer Hacker GIF](https://media.giphy.com/media/3o7TKzSOu7d2vC99m4/giphy.gif)
 
