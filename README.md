@@ -1,43 +1,38 @@
 # 👋 ¡Hola, soy missaels235!
 
-![Banner Animado](https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif)
+![Hacker GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
-Soy un apasionado de la **ciberseguridad** y un **entusiasta de Linux**. A veces me involucro en la investigación de **iOS hacking** para romper la seguridad del iPhone. Tengo 22 años y disfruto programar en diversos lenguajes, incluyendo:
-
-- **C++**
-- **C**
-- **Bash**
-- **Python**
-- **Ruby**
-- **Lenguaje Ensamblador**
+Soy un apasionado de la **ciberseguridad** y un **entusiasta de Linux**. Con 22 años de edad, me dedico a romper barreras y a explorar vulnerabilidades, especialmente en el mundo del **iOS hacking**. Además, manejo diversos lenguajes de programación que me permiten crear herramientas y soluciones innovadoras.
 
 ---
 
-## 🛠️ Tecnologías & Herramientas
+## 🛠️ Lenguajes de Programación
+
+Aquí muestro algunos de los lenguajes que utilizo en mis proyectos:
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![Assembler](https://img.shields.io/badge/Assembler-000000?style=for-the-badge&logo=assembler&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assembly&logoColor=white)
 
 ---
 
 ## 🚀 Proyectos Más Interesantes
 
 - **[ExifTool-GUI-Python](https://github.com/missaels235/exiftool-GUI-Python)**  
-  Una interfaz gráfica para [ExifTool](https://exiftool.org/) que facilita la visualización y edición de metadatos en imágenes, desarrollado en Python.
+  Interfaz gráfica en Python para [ExifTool](https://exiftool.org/), que permite visualizar y editar metadatos de imágenes de forma sencilla.
 
 - **[NetworkScanner](https://github.com/missaels235/NetworkScanner-)**  
-  Un escáner de red local que identifica dispositivos conectados, muestra detalles como IP, MAC, nombre del host y fabricante, además de escanear puertos abiertos. ¡Ideal para auditorías de red!
+  Escáner de red local que identifica dispositivos conectados, mostrando detalles como IP, MAC, nombre del host, fabricante y puertos abiertos.
 
 - **[Nmap-GUI](https://github.com/missaels235/Nmap-gui)**  
-  Una herramienta gráfica que integra Nmap para realizar escaneos de puertos avanzados, permitiendo a los usuarios configurar rangos, visualizar resultados en tiempo real y obtener resúmenes detallados.
+  Herramienta gráfica que integra Nmap para realizar escaneos avanzados de puertos, permitiendo configurar rangos y visualizar resultados en tiempo real.
 
 ---
 
-## 📊 Mis Estadísticas de GitHub
+## 📊 Estadísticas de GitHub
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=missaels235&theme=dark&hide_border=true)
   
@@ -45,12 +40,13 @@ Soy un apasionado de la **ciberseguridad** y un **entusiasta de Linux**. A veces
 
 ---
 
-## 💬 Un Poco Más Sobre Mí
+## 💡 Sobre Mí
 
-- 🔓 **Jailbreak Fanatic:** Siempre en búsqueda de nuevas vulnerabilidades y formas de mejorar la seguridad.
-- 🛡️ **Cybersecurity:** Me dedico a aprender y compartir sobre técnicas de ciberseguridad.
-- 🐧 **Linux Enthusiast:** Linux es mi sistema preferido para desarrollar y trabajar en proyectos de seguridad.
-- 📱 **iOS Hacker:** Investigo y experimento en el mundo del iOS para encontrar y reportar vulnerabilidades.
+- 🔓 **Jailbreak Fanatic:** Exploro y experimento con técnicas de jailbreak y hacking en iOS.
+- 🛡️ **Cybersecurity:** Me dedico a aprender y mejorar la seguridad de sistemas y redes.
+- 🐧 **Linux Enthusiast:** Linux es mi plataforma de confianza para el desarrollo y la investigación.
+- 📱 **iOS Hacker:** Investigo vulnerabilidades en iOS para fortalecer la seguridad de los dispositivos.
+- 💻 **Políglota:** Manejo diversos lenguajes de programación para crear soluciones versátiles y eficientes.
 
 ---
 
@@ -63,4 +59,5 @@ Soy un apasionado de la **ciberseguridad** y un **entusiasta de Linux**. A veces
 ---
 
 ![Footer Animado](https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif)
+
 
