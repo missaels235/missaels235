@@ -1,6 +1,6 @@
 # 👋 ¡Hola, soy missaels235!
 
-![Hacker GIF](https://giphy.com/gifs/loop-glitch-matrix-3og0ILLVvPp8d64Jd6)
+![Hacker GIF](https://media.giphy.com/media/3og0ILLVvPp8d64Jd6/giphy.gif)
 
 Soy un apasionado de la **ciberseguridad** y un **entusiasta de Linux**. Con 22 años de edad, me dedico a romper barreras y a explorar vulnerabilidades, especialmente en el mundo del **iOS hacking**. Además, manejo diversos lenguajes de programación que me permiten crear herramientas y soluciones innovadoras.
 
