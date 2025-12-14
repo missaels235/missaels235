@@ -1,126 +1,131 @@
-# 👋 Hola — soy **Missael** (@missaels235)
+<!-- HERO BANNER -->
 
-🔐 **Investigador en seguridad móvil & desarrollador** con fuerte enfoque en **iOS/Android security, reverse engineering y automatización**. Apasionado por romper, analizar y entender cómo funcionan los sistemas — especialmente el ecosistema Apple.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=220&section=header&text=Missael%20%7C%20Mobile%20Security%20Researcher&fontSize=34&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FFB3&center=true&vCenter=true&width=700&lines=iOS+Security+Researcher;Frida+Toolkit+Developer;Jailbreak+%26+Reverse+Engineering;CVE+PoCs+%7C+Mobile+Exploitation" />
+</p>
+
+---
+
+## 🧠 About Me
+
+🔐 **Mobile Security Researcher & Reverse Engineer** especializado en **iOS internals, jailbreak environments y bypass de mecanismos de seguridad**. Desarrollo **tooling avanzado con Frida**, PoCs de vulnerabilidades y utilidades enfocadas en análisis dinámico de aplicaciones móviles.
 
 * 📍 México
-* 🧠 Intereses principales: Jailbreak, Frida, bypasses de seguridad, análisis de protocolos y PoCs de vulnerabilidades
 * 🐧 Linux enthusiast
+* 🍎 iOS security / Jailbreak fanatic
+
+> *"Break it. Understand it. Secure it."*
 
 ---
 
-## 🔭 ¿En qué me especializo?
+## 🧩 Focus Areas
 
-* Investigación de seguridad en **iOS** (StoreKit, SSL Pinning, provisioning, sandboxing)
-* Desarrollo de **PoC de CVEs** en Python
-* Creación de toolkits y utilidades para **Frida**
-* Ingeniería inversa y análisis dinámico de apps
-* Desarrollo de GUIs en Python para herramientas de seguridad
+<p align="center">
 
----
+<img src="https://img.shields.io/badge/iOS_Security-black?style=for-the-badge&logo=apple" />
+<img src="https://img.shields.io/badge/Reverse_Engineering-black?style=for-the-badge&logo=hackaday" />
+<img src="https://img.shields.io/badge/Frida_Tooling-black?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/Jailbreak_Research-black?style=for-the-badge&logo=ios" />
+<img src="https://img.shields.io/badge/CVE_PoCs-black?style=for-the-badge&logo=bugcrowd" />
 
-## 🛠️ Tecnologías
-
-**Lenguajes**
-Python · JavaScript · C++ · Bash
-
-**Herramientas / Frameworks**
-Frida · Jailbreak Tooling · ADB · Nmap · Git · Linux
-
-**Áreas**
-Mobile Security · Reverse Engineering · Network Analysis · Exploit Research
+</p>
 
 ---
 
-## 🌟 Proyectos destacados
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,bash,linux,git" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,fastapi" />
+</p>
+
+---
+
+## 🚀 Featured Projects
 
 ### 🔓 FilzaForge
 
-**Python**
-Herramienta orientada a dispositivos iOS con jailbreak para manipulación y análisis de archivos del sistema.
+> **Python · iOS Jailbreak**
+> Advanced file-system manipulation & analysis tool for jailbroken iOS devices.
 
 ---
 
 ### 🍎 Frida-iOS-IAP-Toolkit
 
-**JavaScript / Frida**
-Toolkit para análisis y bypass de **In-App Purchases (StoreKit)** en aplicaciones iOS.
+> **Frida · JavaScript**
+> Toolkit for analyzing and bypassing **StoreKit / In-App Purchase** mechanisms.
 
 ---
 
 ### 🌐 frida-ios-storekit-network-enhancer
 
-**JavaScript / Frida**
-Extensión para monitorear y analizar tráfico relacionado con StoreKit y compras dentro de apps.
+> **Frida · Network Analysis**
+> Enhances visibility and inspection of StoreKit-related network flows.
 
 ---
 
 ### 🔐 ios_ssl_bypass_monitor
 
-**JavaScript / Frida**
-Monitor y bypass de **SSL Pinning** en aplicaciones iOS para análisis de red.
+> **Frida · SSL Pinning**
+> Monitor and bypass SSL pinning protections in iOS applications.
 
 ---
 
-### 🧪 POC-CVE-2025-24104-Py
+### 🧪 CVE Proof of Concepts
 
-**Python**
-Proof of Concept funcional para la vulnerabilidad **CVE-2025-24104**.
+* **CVE-2025-24104** — Python PoC
+* **CVE-2024-44258** — Python PoC
 
----
-
-### 🧪 POC-CVE-2024-44258-Py
-
-**Python**
-PoC enfocado en análisis y validación de la vulnerabilidad **CVE-2024-44258**.
+Focused on reproducibility, documentation and ethical disclosure.
 
 ---
 
-### 🧰 PyScript-Toolkit
+## 📊 GitHub Analytics
 
-**Python**
-Colección de scripts reutilizables para automatización, análisis y pruebas de seguridad.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=missaels235&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=missaels235&theme=tokyonight&hide_border=true" height="160" />
+</p>
 
----
-
-### 🖥️ Nmap-GUI
-
-**Python**
-Interfaz gráfica para Nmap orientada a escaneo de red local.
-
----
-
-### 🌐 NetworkScanner
-
-**Python**
-Escáner de red local con API de **MAC Vendor lookup**.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=missaels235&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-### 🧬 exiftool-GUI-Python
+## ⚠️ Ethical Notice
 
-**Python**
-GUI para simplificar y agilizar el uso de **ExifTool**.
-
----
-
-### 🔑 winrar-keygen (fork)
-
-**C++ · MIT**
-Análisis del principio matemático detrás de la generación de claves de WinRAR.
+All repositories are published **strictly for educational, research and defensive security purposes**.
+No responsibility is assumed for misuse of the provided tools or techniques.
 
 ---
 
-## ⚠️ Nota ética
+## 🤝 Collaboration
 
-Todos los proyectos se publican con fines **educativos, de investigación y concientización en seguridad**. No promuevo el uso indebido de estas herramientas.
+Interested in collaborating on:
 
----
-
-## 📫 Contacto
-
-* GitHub: [https://github.com/missaels235](https://github.com/missaels235)
-* Intereses: colaboración en proyectos de **mobile security, jailbreak y reverse engineering**
+* iOS security research
+* Frida tooling
+* Jailbreak-related analysis
+* Mobile vulnerability research
 
 ---
 
-> *"Break it. Understand it. Secure it."* 🔐
+## 📫 Contact
+
+<p align="center">
+  <a href="https://github.com/missaels235"><img src="https://img.shields.io/badge/GitHub-missaels235-black?style=for-the-badge&logo=github" /></a>
+</p>
+
+<!-- FOOTER -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=120&section=footer" />
+</p>
