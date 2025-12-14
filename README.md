@@ -1,87 +1,102 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Jeczan+Missael+Santos+Coronel;Analista+de+Ciberseguridad+Junior;Pentester;Ingeniero+en+Telem%C3%A1tica" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&width=435&lines=Missael+Santos;Cybersecurity+Analyst;Pentester;Red+Teamer" alt="Typing SVG" />
 </div>
 
-<h1 align="center">Hola, soy Jeczan Missael 👋</h1>
-<h3 align="center">Analista de Ciberseguridad Junior & Pentester</h3>
+<h1 align="center">🚀 Hola, soy Missael Santos</h1>
+<h3 align="center">🛡️ Analista de Ciberseguridad & Pentester Junior</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/missaelsantos235a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.credly.com/users/missaelsantos">
-    <img src="https://img.shields.io/badge/Credly-Certificaciones-orange?style=for-the-badge&logo=credly&logoColor=white" />
-  </a>
-  <a href="mailto:jeczan.santos5478@alumnos.udg.mx">
-    <img src="https://img.shields.io/badge/Email-Contactame-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=missaels235&label=Profile%20Views&color=0e75b6&style=flat" alt="missaels235" />
+</p>
+
+<p align="center">
+  Estudiante de <b>Ingeniería en Telemática</b> apasionado por la seguridad ofensiva y la protección de infraestructuras críticas. Mi enfoque combina la administración de redes con técnicas avanzadas de pentesting para crear entornos digitales más seguros.
+</p>
+
+<p align="center">
+  <a href="mailto:smiesl8734@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contactame-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" />
   </a>
 </p>
 
 ---
 
-### 👨‍💻 Sobre mí
-
-Soy un apasionado de la seguridad informática con una sólida formación académica y experiencia práctica. Mi objetivo es aplicar mis habilidades en análisis de seguridad, pruebas de penetración y administración de sistemas para proteger infraestructuras críticas.
-
-- [cite_start]🎓 **Educación:** Estudiante de Ingeniería en Telemática en el Centro Universitario del Sur (UDG)[cite: 25, 26].
-- [cite_start]🔭 **Actualmente trabajando en:** Certificaciones eJPT, CCT (EC-Council) y CISSP[cite: 42, 43, 44].
-- [cite_start]🏆 **Logros:** Ganador en competencias de robótica (Minisumo) y Ponente sobre Seguridad en iOS[cite: 27, 37].
-- [cite_start]💬 **Idiomas:** Español (Nativo) e Inglés (Intermedio/B1)[cite: 30].
+<div align="center">
+  <img src="https://github-readme-snake.vercel.app/api?username=missaels235&palette=github-dark&color_snake=00FF00" />
+</div>
 
 ---
 
-### 🛠️ Arsenald de Herramientas (Tech Stack)
+### 💻 Arsenal Técnico
 
-**Sistemas Operativos & Entornos:**
+**🌪️ Offensive Security & Pentesting**
 <p>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Parrot_OS-13E7D9?style=for-the-badge&logo=gnu-bash&logoColor=black" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-</p>
-
-**Pentesting & Seguridad:**
-<p>
   <img src="https://img.shields.io/badge/Metasploit-333333?style=for-the-badge&logo=metasploit&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-101010?style=for-the-badge&logo=nmap&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-black?style=for-the-badge&logo=nmap&logoColor=white" /> <img src="https://img.shields.io/badge/OWASP_ZAP-4B529A?style=for-the-badge&logo=owasp&logoColor=white" />
-</p>
-<p>
-  <code>Hydra</code> <code>John the Ripper</code> <code>Aircrack-ng</code> <code>SQLmap</code> <code>Maltego</code> <code>Hashcat</code> <code>Nessus</code> <code>Snort</code>
+  <img src="https://img.shields.io/badge/OWASP_ZAP-4B529A?style=for-the-badge&logo=owasp&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Hashcat-D0D0D0?style=flat-square&logo=hashcat&logoColor=black" />
+  <img src="https://img.shields.io/badge/AirCrack--ng-FF0000?style=flat-square&logo=wifi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hydra-0000FF?style=flat-square&logo=hackthebox&logoColor=white" />
 </p>
 
-**Programación & Scripting:**
+**🛡️ Sistemas & Redes**
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Parrot_OS-13E7D9?style=for-the-badge&logo=gnu-bash&logoColor=black" />
+  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco_IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+</p>
+
+**⚡ Desarrollo & Scripting**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash_Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
 ---
 
-### 📜 Certificaciones
+### 🏆 Certificaciones & Formación
 
-| Certificación | Estado | Emisor |
-| :--- | :---: | :--- |
-| **Junior Cybersecurity Analyst** | ✅ Completado | [cite_start]CISCO [cite: 39] |
-| **Ethical Hacker** | ✅ Completado | [cite_start]CISCO [cite: 40] |
-| **Networking Academy Learn-A-Thon 2024** | ✅ Completado | [cite_start]CISCO [cite: 41] |
-| **eJPT Certification** | [cite_start]🔄 En Curso | eLearnSecurity [cite: 42] |
-| **Certified Cybersecurity Technician (CCT)** | 🔄 En Curso | [cite_start]EC-Council [cite: 43] |
-| **CISSP** | 🔄 En Curso | [cite_start]ISC2 [cite: 44] |
+| Certificación | Organización | Estado |
+| :--- | :--- | :---: |
+| **Junior Cybersecurity Analyst** | CISCO | ✅ |
+| **Ethical Hacker** | CISCO | ✅ |
+| **Networking Academy Learn-A-Thon** | CISCO | ✅ |
+| **eJPT** (eLearnSecurity) | INE | 🔄 En progreso |
+| **CCT** (Cybersecurity Technician) | EC-Council | 🔄 En progreso |
+| **CISSP** | ISC2 | 🔄 En progreso |
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 Estadísticas GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=missaels235&show_icons=true&theme=radical&count_private=true" alt="Estadísticas de Missael" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=missaels235&layout=compact&theme=radical" alt="Lenguajes más usados" />
+  <img src="https://github-profile-trophy.vercel.app/?username=missaels235&theme=onedark&no-frame=true&margin-w=15&margin-h=15&column=7" />
+  <br/><br/>
+  
+  <a href="https://github.com/missaels235">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=missaels235&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=missaels235&layout=compact&theme=tokyonight&hide_border=true" />
+  </a>
 </div>
 
+---
+
+### 🧩 Highlights & Proyectos
+
+* 🥇 **Robótica:** Ganador múltiple en competencias de Minisumo y 3er lugar en Robot Rumble Sumo Mania (Categoría Profesional).
+* 📱 **Seguridad Móvil:** Investigación y ponencia sobre "Seguridad en dispositivos iOS" (X Foro de Investigación).
+* 🤖 **Divulgación:** Tallerista sobre Inteligencia Artificial en ferias de ciencia.
+
+---
+
 <div align="center">
-  <br>
-  <p><i>"Mi objetivo es contribuir al fortalecimiento de la seguridad cibernética y el desarrollo de tecnologías seguras"</i></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=100&section=footer"/>
 </div>
