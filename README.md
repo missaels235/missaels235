@@ -4,6 +4,11 @@
 
 ### Mobile Security Researcher · iOS Reverse Engineering
 
+<img
+  src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2600&pause=900&color=6B7280&center=true&vCenter=true&repeat=true&width=760&height=45&lines=iOS+Application+Security;Dynamic+Instrumentation+%26+Runtime+Analysis;Reverse+Engineering+%26+Vulnerability+Research"
+  alt="Security focus"
+/>
+
 I analyze how iOS applications behave at runtime, identify security assumptions, and build tooling to make mobile security research more observable, reproducible, and defensible.
 
 [![GitHub](https://img.shields.io/badge/GitHub-missaels235-181717?style=flat-square&logo=github)](https://github.com/missaels235)
@@ -22,7 +27,7 @@ My work centers on understanding what happens beneath the user interface: authen
 
 I build small, purpose-driven tools for **inspection, tracing, validation, and reproducible security research** using **Frida, Python, JavaScript, Swift, LLDB, and native iOS tooling**.
 
-> I prefer runtime evidence over assumptions and reproducible results over hype.
+> **Runtime evidence over assumptions. Reproducible results over hype.**
 
 ---
 
@@ -110,28 +115,48 @@ My objective is not to collect CVE names, but to understand **why a control fail
 
 ---
 
-## Engineering Principles
-
-```text
-Observe first.
-Measure the runtime.
-Reproduce the behavior.
-Document the root cause.
-Keep research controlled and authorized.
-```
-
-All security research, proof-of-concept code, and demonstrations published through this profile are intended for **legitimate research, education, defensive security, and authorized testing**.
-
----
-
 ## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=missaels235&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="Missael GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=missaels235&layout=compact&hide_border=true&langs_count=8" height="165" alt="Most used languages" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=missaels235&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"
+  height="165"
+  alt="Missael GitHub statistics"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=missaels235&layout=compact&hide_border=true&langs_count=8"
+  height="165"
+  alt="Most used languages"
+/>
 
 </div>
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=missaels235&bg_color=ffffff00&color=6B7280&line=111827&point=374151&area=true&hide_border=true&custom_title=Research%20%26%20Engineering%20Activity"
+  width="96%"
+  alt="GitHub activity graph"
+/>
+
+</div>
+
+---
+
+## Engineering Principles
+
+<div align="center">
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=1100&color=6B7280&center=true&vCenter=true&repeat=true&width=820&height=36&lines=Observe+first.+Measure+the+runtime.;Reproduce+the+behavior.+Document+the+root+cause.;Keep+research+controlled%2C+authorized%2C+and+defensible."
+  alt="Engineering principles"
+/>
+
+</div>
+
+All security research, proof-of-concept code, and demonstrations published through this profile are intended for **legitimate research, education, defensive security, and authorized testing**.
 
 ---
 
